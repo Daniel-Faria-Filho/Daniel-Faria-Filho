@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Faria
 - 👀 I’m a Christian and interested in Aviation
-- 🌱 I’m currently learning Aviation, VATSIM, and Web Building.
-- 💞️ I’m looking to collaborate on fun projects.
+- 🌱 I’m currently learning Web Development and Aviation Theory
+- 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach me a @daniel_faria on Discord!!
 - 😄 Pronouns: He/Him (My name should tell)
 - ⚡ Fun fact: I love aviation!
